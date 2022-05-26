@@ -6,7 +6,7 @@ Feel free to play with things like color or font
 */
 
 html,
-<title>Expressionism through Limbo the Videogame</title>
+<title>German Expressionism through attunement of Limbo the Videogame</title>
 
 <p><font color="purple"> The purpose of this draft is to explore the traces of Expressionism through the games like Limbo.</font></p>
 
@@ -20,7 +20,7 @@ body {
   border: 5px solid groove;
   left: 0
   position: absolute; 
-  background-image: url ;c:\Users\Fudgezilla\Desktop\Karina's secrets Do Not Look\kitty.gif
+  background-image: url ;Karinakitty.gif
   background-size: cover;
 }
 
@@ -82,7 +82,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-image:;c:\Users\Fudgezilla\Desktop\Karina's secrets Do Not Look\ratta3.png
+  background-image:url; Karinaratta.png
   border-radius: 10px;
   position: absolute;
   left: 50px;
