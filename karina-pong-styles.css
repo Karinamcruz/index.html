@@ -18,18 +18,18 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute; 
-  background-image: url("http://www.davidbardschwarz.com/images/knife.jpg");
+  background-image: url ;Karinakitty.gif
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: purple;
+  background-color: rgb(148, 201, 24);
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: green;
+  background-color: rgb(118, 38, 223);
   right: 10px;
 }
 
@@ -80,7 +80,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: pink;
+  background-image: url: Karinaratta.jpg ;
   border-radius: 10px;
   position: absolute;
   left: 50px;
